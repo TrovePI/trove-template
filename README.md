@@ -1,5 +1,7 @@
 # trove-template
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
 A template for TrovePI compliant packages. _(Replace with a little about section)_
 
 ---
@@ -13,7 +15,7 @@ For a package to qualify for induction in the Trove Package Index, it must:
 - [ ] Adopt a license (MIT is given by default).
   - [ ] If adopting the MIT license included, don't forget to put in your personal details.
 - [ ] This file, must at a minimum fill in information outlined by the subtitles below including:
-  - [ ] A link to install DDS and add the Trove if the user needs (this one can be used: https://github.com/oraqlle/trove/wiki/installing).
+  - [ ] A link to install DDS and add the Trove if the user needs (this one can be used: "https://github.com/oraqlle/trove/wiki/installing").
   - [ ] Outline how to add the package as a dependency to another.
   - [ ] **_Optional:_** Add a quick example of the usage.
 - [ ] Have a Code of Conduct for community guidelines (by default the Contributor Covenant Code of Conduct v2.1 is given).
@@ -21,6 +23,8 @@ For a package to qualify for induction in the Trove Package Index, it must:
 - [ ] Have supporting documentation (either in the README, wiki or external) and must be easy to find.
 
 **More information is available at [the Troves Wiki](https://github.com/oraqlle/trove/wiki)**
+
+**If you have questions about how to setup a package, ask them on [the Troves Discussion Space](https://github.com/oraqlle/trove/discussion).**
 
 ---
 

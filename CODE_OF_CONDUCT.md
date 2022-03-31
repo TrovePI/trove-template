@@ -112,6 +112,11 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within the
 community.
 
+## Contact for Support
+
+If **any** member breeches this Code, do not hesitate to contact me/us at example@email.com.
+Not that this Code of Conduct only has action against members of this package's community. If misconduct or disrepectful behaviour occurs in another part of the community, reach out to that communities support group.
+
 ## Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
